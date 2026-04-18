@@ -15,5 +15,6 @@ DERS 4 KAGGLE TITANIC ANALIZI : https://www.kaggle.com/code/ardaeren2401/titanik
 Kaggle kişisel yarışma denemem: https://www.kaggle.com/code/ardaeren2401/notebook5040961242
 
 DERS 5: https://colab.research.google.com/drive/1ip7mSdw98QeTiaRy_boF0zfikenmzgPJ?usp=sharing
+
 Arac Tahmin Uygulamam: https://huggingface.co/spaces/ArdaEren2401/arac_fiyat_tahmin_uygulamasi
 
